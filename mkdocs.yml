@@ -1,3 +1,8 @@
 site_name: Rachel Portfolio
 markdown_extensions:
   - attr_list
+
+copyright: "Copyright &copy; 2026 by Nzayikorera Rachel"
+
+extra:
+  generator: false
